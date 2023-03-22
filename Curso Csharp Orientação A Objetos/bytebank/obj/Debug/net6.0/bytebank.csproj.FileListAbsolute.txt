@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\curso_OrientacaoObjetosC01R-aula01\bytebank\obj\Debug\net6.0\ref\bytebank.dll
